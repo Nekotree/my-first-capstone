@@ -1,0 +1,62 @@
+ * {
+    box-sizing: border-box;
+    
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+.main-header {
+    padding-top: 6%;
+}
+
+
+input {
+    margin-right: 3%;
+}
+
+.header-section {
+    min-height: 150px;
+    width: 90%;
+    margin: auto;
+    background-color: white;
+}
+
+.header-div {
+    padding-top: .5%;
+}
+
+.create-btn {
+    margin-top: 1%;
+}
+
+section {
+    
+    min-height: 150px;
+    padding: 2% 5% 2% 5%;
+    width: 90%;
+    margin: auto;
+    background-color: #bbb;
+    
+}
+
+
+section:nth-child(even){
+    background-color: #ddd;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+div {
+    line-height: 2em;
+}
+
+
+

@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.employee-data {
+    display: flex;
+    justify-content: center; 
+    background-color: #bbb;
+    margin: auto;
+    width: 95%;
+}
+section:nth-child(even){
+    background-color: #ddd;
+}
+
+
+form:nth-child(2) {
+    padding-left: 2%;
+}
+
+.comments {
+    width: 50%;
+    background-color: grey;
+}
+
+
+
+
+
+

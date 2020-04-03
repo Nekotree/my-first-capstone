@@ -1,0 +1,77 @@
+
+@media screen and (min-width: 400px){
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 2em;
+}
+
+
+nav {
+    width: 100%;
+    background-color: grey;
+   height: 60px;
+   padding: 1% 0;
+   background-color: #aaa;
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+ 
+ 
+}
+
+footer {
+
+    width: 100%;
+    margin: auto;
+    margin-top: 2%;
+    background-color: grey;
+   height: 40px;
+   padding: 1% 0;
+   background-color: #aaa;
+   text-align: center;
+
+}
+
+select {
+   float: right;
+   margin-right: 5%;
+}
+
+span {
+    font-size: 1.5em;
+    margin-left: 2%;
+}
+
+section {
+    
+    min-height: 150px;
+    padding: 2% 5% 2% 5%;
+    width: 90%;
+    margin: auto;
+    background-color: #bbb;
+    text-align: center;
+    margin-top: 1%;
+    
+}
+
+.welcome {
+    margin-top: 15%;
+}
+
+}
+
+@media screen and (min-width: 800px) {
+    .welcome {
+        margin-top: 8%
+    }
+}
