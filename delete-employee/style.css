@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+section {
+    
+    min-height: 150px;
+    padding: 2% 5% 2% 5%;
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #bbb;
+    
+}
+.employee-data {
+    
+    background-color: #bbb;
+    margin: auto;
+    width: 95%;
+}
+
+div {
+
+    line-height: 1em;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+
+button {
+    display: inline-block;
+    margin: auto;
+    margin-top: 1em;
+}
