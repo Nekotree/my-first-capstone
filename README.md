@@ -37,4 +37,5 @@ Link (https://github.com/Nekotree/my-first-capstone/tree/master/update-employee)
 If the user chooses Delete employee profile, it takes them to a delete employee profile page.
 Link (https://github.com/Nekotree/my-first-capstone/tree/master/delete-employee)
 
-Please note that additional pages are still required, such as buttons that go back to the main page after any of the CRUD functions have been performned. I am going to implement those. As well as pages that state if any of the CRUD functions have been sucessfully performed. These will be implemented as well. 
+
+Please note that additional pages are still required, such as buttons that go back to the main page after any of the CRUD functions have been performned. I am going to implement those. As well as pages that state if any of the CRUD functions have been sucessfully performed as well as search page that will take you inidividual employee profiles where you can then choose to update or delete them. I am still adding these to my current greyframe. 
